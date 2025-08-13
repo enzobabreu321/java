@@ -1,4 +1,4 @@
-git clone https://github.com/enzobabreu321/java.git
+git clone https://github.com/enzobabreu321/java.git .
 mkdir java-executable
 echo Manifest_Version: 1.0 > MANIFEST.mf
 echo Main-Class: Main >> MANIFEST.mf
